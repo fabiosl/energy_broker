@@ -1,7 +1,7 @@
 energy_broker
 =============
 
-Energy broken prototype written in django
+Energy broker prototype written in django
 1 - You should have Python 2.7 and Django 1.6.2 installed. 
 
 2 - You should create your database:
